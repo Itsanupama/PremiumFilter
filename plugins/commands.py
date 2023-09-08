@@ -107,7 +107,7 @@ async def start(client, message):
             InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/Movies_Telugu_Top'),
             InlineKeyboardButton('🔎 Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🔍', url='https://t.me/+4tiVkQ6zeaMwZWM1')
             ],[
-            InlineKeyboardButton('😅 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 😊', callback_data='sources')
+            InlineKeyboardButton('😅 ᴡᴀɴᴛ ᴛᴏ ᴊᴏɪɴ ᴘʀᴇᴍɪᴜᴍ ʙᴏᴛ? 😊', callback_data='sources')
             ],[
             InlineKeyboardButton('💌 Aʙᴏᴜᴛ Aɴᴅ Iɴғᴏ 💌', callback_data= 'about')
             ],[
