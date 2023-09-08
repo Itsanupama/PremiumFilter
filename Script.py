@@ -30,17 +30,21 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/TamilanMoviesChat>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
-    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Tamilan_BotsZ
+    SOURCES_TXT = """⇛ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʙᴏᴛ ᴛʜᴇʀᴇ ɪꜱ ɴᴏ ꜱʜᴏʀᴛ ʟɪɴᴋꜱ & ᴏɴʟɪɴᴇ ᴡᴀᴛᴄʜɪɴɢ ꜱᴜᴘᴘᴏʀᴛ ɪꜱ ᴀᴠᴀɪʟᴀʙʟᴇ
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/SharathItsIsme>sʜᴀʀᴀᴛʜ</a>
+⇛ ꜰᴏʀ ᴘʀɪᴍɪᴜᴍ ɢʀᴏᴜᴘ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴘᴀʏ ₹50/ᴍᴏɴᴛʜ
 
-- & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
+⇛ ᴜᴘɪ ɪᴅ - gouridevi@fam
 
-    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Tamilan_BotsZ</b>
+ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴ ꜱʜᴏᴛ ᴛᴏ ᴍᴇ @Iam_Channel_Admin"""
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/SharathItsIsme>sʜᴀʀᴀᴛʜ</a></b>
+    SOURCE_TXT = """⇛ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʙᴏᴛ ᴛʜᴇʀᴇ ɪꜱ ɴᴏ ꜱʜᴏʀᴛ ʟɪɴᴋꜱ & ᴏɴʟɪɴᴇ ᴡᴀᴛᴄʜɪɴɢ ꜱᴜᴘᴘᴏʀᴛ ɪꜱ ᴀᴠᴀɪʟᴀʙʟᴇ
 
-- Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
+⇛ ꜰᴏʀ ᴘʀɪᴍɪᴜᴍ ɢʀᴏᴜᴘ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴘᴀʏ ₹50/ᴍᴏɴᴛʜ
+
+⇛ ᴜᴘɪ ɪᴅ - gouridevi@fam
+
+ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴ ꜱʜᴏᴛ ᴛᴏ ᴍᴇ @Iam_Channel_Admin"""
 
     FONT_TXT = """I Cᴀɴ Gᴇɴᴇʀᴀᴛᴇ Aᴛᴛʀᴀᴄᴛɪᴠᴇ Fᴏɴᴛs Fᴏʀ Yᴏᴜʀ Tᴇxᴛ Sᴇɴᴅ Lɪᴋᴇ Tʜɪs 👇
 
@@ -74,10 +78,10 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 
 <b>Aɴᴅ Bᴏᴛ Wɪʟʟ Sᴇɴᴅ Yᴏᴜ Asᴋᴇᴅ Fɪʟᴇ</b>
 
-<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/Sharath_Links/13>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
+<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/How_To_Open_shortLinks/19>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
 
     CONTACT_TXT = """<b>
-<b>»» ° Oɴʟʏ Cᴏɴᴛᴀᴄᴛ Fᴏʀ Pᴀɪᴅ Wᴏʀᴋs / Pʀᴏʙʟᴇᴍ / Dᴏᴜʙᴛ / Cᴏʟʟᴀʙ / Hᴇʟᴩ °</b>
+<b>»» ° Oɴʟʏ Cᴏɴᴛᴀᴄᴛ Fᴏʀ ᴘʀᴇᴍɪᴜᴍ ʙᴏᴛ / Pʀᴏʙʟᴇᴍ / Dᴏᴜʙᴛ / Cᴏʟʟᴀʙ / Hᴇʟᴩ °</b>
 
 <b>»» Iғ U Cᴏɴᴛᴀᴄᴛ Mᴇ Sᴇᴇ Bᴇʟᴏᴡ Bᴜᴛᴛᴏɴs 😙</b>
 """
